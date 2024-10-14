@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1728913561|18772557';
+const CACHE_VERSION = '1728913998|49329921';
 /** @type {string} */
 const CACHE_PREFIX = 'Dino Adventure-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
